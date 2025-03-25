@@ -49,6 +49,26 @@ Set up your database connection:
 
 Create a .env file in the root directory and add your database credentials:
 
+# Usage
+
+Run the agent:
+
+python main.py
+
+Execute SQL queries interactively:
+
+from agent import SQLDatabaseAgent
+agent = SQLDatabaseAgent()
+result = agent.run_query("SELECT * FROM users;")
+print(result)
+
+Enable AI-powered query suggestions using Agentic AI:
+
+suggestion = agent.suggest_query("Find top 10 sales records")
+print(suggestion)
+
+Execute natural language queries with AI translation:
+
 
 
 
