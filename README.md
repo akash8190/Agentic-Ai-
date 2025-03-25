@@ -18,3 +18,18 @@ Multi-Database Support: Works with MySQL, PostgreSQL, SQLite, and more.
 Data Insights & Analytics: Generate reports and summaries from database queries.
 
 Agentic AI-Powered Query Understanding: Understands natural language queries and converts them into SQL.
+
+
+# Prerequisites
+
+Ensure you have the following installed:
+
+Python 3.8 or higher
+
+SQLAlchemy
+
+MySQL/PostgreSQL/SQLite (depending on your database)
+
+.env file for storing database credentials securely
+
+Agentic AI API key (for AI-powered features)
