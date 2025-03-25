@@ -1,3 +1,3 @@
 # Agentic-Ai-
 
-##SQL Database Agent (Powered by Agentic AI)
+#SQL Database Agent (Powered by Agentic AI)
