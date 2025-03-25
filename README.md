@@ -24,7 +24,7 @@ Agentic AI-Powered Query Understanding: Understands natural language queries and
 
 Ensure you have the following installed:
 
-Python 3.8 or higher
+Python 3.11 
 
 SQLAlchemy
 
@@ -33,3 +33,23 @@ MySQL/PostgreSQL/SQLite (depending on your database)
 .env file for storing database credentials securely
 
 Agentic AI API key (for AI-powered features)
+
+# Installation
+
+Clone this repository:
+
+git clone https://github.com/your-username/sql-database-agent.git
+cd sql-database-agent
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Set up your database connection:
+
+Create a .env file in the root directory and add your database credentials:
+
+
+
+
+
