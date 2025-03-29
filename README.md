@@ -51,9 +51,7 @@ Create a .env file in the root directory and add your database credentials:
 
 # Usage
 
-Run the agent:
-
-python main.py
+Run the agent
 
 Execute SQL queries interactively:
 
